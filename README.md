@@ -1,2 +1,2 @@
 # SeleniumAutomation
-Selenium Automation
+Selenium Automation Repository
